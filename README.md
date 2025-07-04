@@ -11,6 +11,14 @@ The wordlist is ideal to use for games where you need greek words depending on d
 There are 15 diffent categories (for example months, colors, buildings, fruits etc)
 
 # How to use the wordlist
+word_loader.py  
+In this file is all the heavy job done.  
+There are functions:  
+remove_tonos(text) to remove the tonos from the words  
+load_words_with_categories(filename="greekWordlistCategorized.txt") the main function to load the wordlist  
+get_words_by_category(category, word_list)  
+get_all_categories(word_list)  
+
 In the main file type folowing:
 
 `from word_loader import load_words_with_categories, get_words_by_category, get_all_categories`  
