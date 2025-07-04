@@ -1,5 +1,8 @@
 # Greek categorized wordlist
-This wordlist has Greek words, written in lowercase and with tonos. Also there is a category next to each word
+This wordlist is ideal for games. It has Greek words, written in lowercase and with tonos. Also there is a category next to each word
+
+![image](https://github.com/user-attachments/assets/f20b4f2f-527e-4471-8bd0-4eac06866b2a)
+
 
 # Usage
 The wordlist is ideal to use for games where you need greek words depending on different categories.
