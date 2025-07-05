@@ -14,6 +14,3 @@ There are 15 diffent categories (for example months, colors, buildings, fruits e
 In the main file:  
 To get all the words  
 `words = load_words_only()`  
-
-Then use functions however you like.
-
